@@ -1,0 +1,5 @@
+Hello phone2numeric!
+Hello {% autoescape off %}!
+Hello {% endautoescape %}!
+Hello good!
+Hello bad!
