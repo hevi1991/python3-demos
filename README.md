@@ -8,3 +8,7 @@ This repository is about Python3 based.
 chapter 28 to 36
 
 demo from [Morvanzhou's website](https://morvanzhou.github.io/tutorials/python-basic/threading/)
+
+---
+
+2018-10-1 22:27:26
